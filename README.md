@@ -41,5 +41,5 @@ The following demonstrates the application functionality:
 
 ## Links
 
-![Github]()
-![Website Link]()
+![Github](https://github.com/rileyale001/julianplanscheduler)
+![Website Link](https://rileyale001.github.io/julianplanscheduler/)
